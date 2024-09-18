@@ -1,0 +1,3 @@
+D:\Desktop\_\Лабы по алгоритмам\Лаба 2\Матрица Форма\MatrixF\MatrixF\x64\Debug\MatrixF.vcxproj.AssemblyReference.cache
+D:\Desktop\_\Лабы по алгоритмам\Лаба 2\Матрица Форма\MatrixF\MatrixF\x64\Debug\MatrixF.MyForm.resources
+D:\Desktop\_\Лабы по алгоритмам\Лаба 2\Матрица Форма\MatrixF\MatrixF\x64\Debug\MatrixF.vcxproj.GenerateResource.cache
